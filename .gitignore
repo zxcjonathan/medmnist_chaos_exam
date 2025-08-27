@@ -1,0 +1,17 @@
+# Python 相關
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
+.env
+
+# 資料集與模型
+data/raw/
+models/best_model.pth
+
+# 系統文件
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook 輸出
+*.ipynb
